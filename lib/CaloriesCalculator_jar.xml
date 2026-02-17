@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CaloriesCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CaloriesCalculator_jar</output-path>
+    <root id="archive" name="CaloriesCalculator.jar">
+      <element id="module-output" name="CaloriesCalculator" />
+    </root>
+  </artifact>
+</component>
